@@ -1,0 +1,6 @@
+### Day one
+- set goal (crud online apps)
+- masih dasar banget but happy
+- problem !!
+  lagi cari cara biar 
+  1 component nggak hanya keluarin 1 widget saja
